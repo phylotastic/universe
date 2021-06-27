@@ -1,0 +1,114 @@
+[
+    {
+        "package": "phrapl",
+        "url": "https://github.com/bomeara/phrapl"
+    },
+    {
+        "package": "dentist",
+        "url": "https://github.com/bomeara/dentist"
+    },
+    {
+        "package": "sisters",
+        "url": "https://github.com/bomeara/sisters"
+    },
+    {
+        "package": "hisse",
+        "url": "https://github.com/thej022214/hisse"
+    },
+    {
+        "package": "corHMM",
+        "url": "https://github.com/thej022214/corHMM"
+    },
+    {
+        "package": "OUwie",
+        "url": "https://github.com/thej022214/OUwie"
+    },
+    {
+        "package": "sleq",
+        "url": "https://github.com/bomeara/sleq"
+    },
+	{
+        "package": "datelife",
+        "url": "https://github.com/phylotastic/datelife"
+    },
+	{
+        "package": "AnnotationBustR",
+        "url": "https://github.com/sborstein/AnnotationBustR"
+    },
+	{
+        "package": "dietr",
+        "url": "https://github.com/sborstein/dietr"
+    },
+	{
+        "package": "MonoPhy",
+        "url": "https://github.com/oschwery/MonoPhy"
+    },
+	{
+        "package": "BoskR",
+        "url": "https://github.com/oschwery/BoskR"
+    },
+	{
+        "package": "selac",
+        "url": "https://github.com/bomeara/selac"
+    },
+	{
+        "package": "treevo",
+        "url": "https://github.com/bomeara/treevo"
+    },
+	{
+        "package": "rphylotastic",
+        "url": "https://github.com/phylotastic/rphylotastic"
+    },
+	{
+        "package": "phylobot",
+        "url": "https://github.com/phylotastic/phylobot"
+    },
+	{
+        "package": "flipped",
+        "url": "https://github.com/bomeara/flipped"
+    },
+	{
+        "package": "scheduleR",
+        "url": "https://github.com/bomeara/scheduleR"
+    },
+	{
+        "package": "misconduct",
+        "url": "https://github.com/bomeara/misconduct"
+    },
+	{
+        "package": "rnsf",
+        "url": "https://github.com/bomeara/rnsf"
+    },
+	{
+        "package": "closesamples",
+        "url": "https://github.com/bomeara/closesamples"
+    },
+	{
+        "package": "BMhyb",
+        "url": "https://github.com/bomeara/BMhyb"
+    },
+	{
+        "package": "popularitree",
+        "url": "https://github.com/bomeara/popularitree"
+    },
+	{
+        "package": "yearn",
+        "url": "https://github.com/bomeara/yearn"
+    },
+	{
+        "package": "RateViz",
+        "url": "https://github.com/bomeara/RateViz"
+    },
+	{
+        "package": "laser",
+        "url": "https://github.com/cran/laser"
+    },
+	{
+        "package": "phybase",
+        "url": "https://github.com/cran/phybase"
+    },
+	{
+        "package": "P2C2M",
+        "url": "https://github.com/cran/P2C2M"
+    }
+]

@@ -72,10 +72,6 @@
         "url": "https://github.com/bomeara/scheduleR"
     },
 	{
-        "package": "misconduct",
-        "url": "https://github.com/bomeara/misconduct"
-    },
-	{
         "package": "rnsf",
         "url": "https://github.com/bomeara/rnsf"
     },
@@ -110,5 +106,29 @@
 	{
         "package": "P2C2M",
         "url": "https://github.com/cran/P2C2M"
-    }
+    },
+	{
+        "package": "rotl",
+        "url": "https://github.com/ropensci/rotl"
+    },
+	{
+        "package": "extendedSurface",
+        "url": "https://github.com/mongiardino/extendedSurface"
+    },
+	{
+        "package": "secsse",
+        "url": "https://github.com/rsetienne/secsse"
+    },
+	{
+        "package": "diversitree",
+        "url": "https://github.com/richfitz/diversitree"
+    },
+	{
+        "package": "geiger",
+        "url": "https://github.com/mwpennell/geiger-v2"
+    },
+	{
+        "package": "phylobase",
+        "url": "https://github.com/fmichonneau/phylobase"
+    }			
 ]

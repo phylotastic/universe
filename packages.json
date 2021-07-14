@@ -130,5 +130,9 @@
 	{
         "package": "phylobase",
         "url": "https://github.com/fmichonneau/phylobase"
-    }			
+    },
+	{
+        "package": "bayou",
+        "url": "https://github.com/uyedaj/bayou"
+    }				
 ]

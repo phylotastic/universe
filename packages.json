@@ -68,8 +68,8 @@
         "url": "https://github.com/bomeara/flipped"
     },
 	{
-        "package": "scheduleR",
-        "url": "https://github.com/bomeara/scheduleR"
+        "package": "phylotaR",
+        "url": "https://github.com/ropensci/phylotaR"
     },
 	{
         "package": "rnsf",

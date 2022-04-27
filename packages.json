@@ -130,5 +130,77 @@
 	{
         "package": "bayou",
         "url": "https://github.com/uyedaj/bayou"
-    }				
+    },
+	{
+		"package": "FishPhyloMaker",
+		"url": "https://github.com/GabrielNakamura/FishPhyloMaker"		
+	},
+	{
+		"package": "FossilSim",
+		"url": "https://github.com/fossilsim/fossilsim"
+	},
+	{
+		"package": "RRphylo",
+		"url": "https://github.com/pasraia/RRphylo"
+	},
+	{
+		"package": "Rphylopars",
+		"url": "https://github.com/ericgoolsby/Rphylopars"
+	},
+	{
+		"package": "TreePar",
+		"url": "https://github.com/tanja819/TreePar"
+	},
+	{
+		"package": "TreeSim",
+		"url": "https://github.com/tanja819/TreeSim"
+	},
+	{
+		"package": "dispRity",
+		"url": "https://github.com/TGuillerme/dispRity"
+	},
+	{
+		"package": "evobiR",
+		"url": "https://github.com/coleoguy/evobir"
+	},
+	{
+		"package": "hillR",
+		"url": "https://github.com/daijiang/hillR"
+	},
+	{
+		"package": "hilldiv",
+		"url": "https://github.com/anttonalberdi/hilldiv"
+	},
+	{
+		"package": "nichevol",
+		"url": "https://github.com/marlonecobos/nichevol"
+	},
+	{
+		"package": "nodeSub",
+		"url": "https://github.com/thijsjanzen/nodeSub"
+	},
+	{
+		"package": "pmc",
+		"url": "https://github.com/cboettig/pmc"
+	},
+	{
+		"package": "ratematrix",
+		"url": "https://github.com/Caetanods/ratematrix"
+	},
+	{
+		"package": "secsse",
+		"url": "https://github.com/rsetienne/secsse"
+	},
+	{
+		"package": "sensiPhy",
+		"url": "https://github.com/paternogbc/sensiPhy"
+	},
+	{
+		"package": "treedata.table",
+		"url": "https://github.com/ropensci/treedata.table"
+	},
+	{
+		"package": "treeplyr",
+		"url": "https://github.com/uyedaj/treeplyr"
+	}
 ]

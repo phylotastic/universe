@@ -202,5 +202,9 @@
 	{
 		"package": "treeplyr",
 		"url": "https://github.com/uyedaj/treeplyr"
+	},
+	{
+		"package": "phangorn",
+		"url": "https://github.com/KlausVigo/phangorn"
 	}
 ]

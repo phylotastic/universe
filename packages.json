@@ -206,5 +206,9 @@
 	{
 		"package": "phangorn",
 		"url": "https://github.com/KlausVigo/phangorn"
+	},
+	{
+		"package": "phylolm",
+		"url": "https://github.com/lamho86/phylolm"
 	}
 ]

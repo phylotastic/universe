@@ -210,5 +210,29 @@
 	{
 		"package": "phylolm",
 		"url": "https://github.com/lamho86/phylolm"
+	},
+	{
+		"package": "phytools",
+		"url": "https://github.com/liamrevell/phytools"
+	},
+	{
+		"package": "ape",
+		"url": "https://github.com/emmanuelparadis/ape"
+	},
+	{
+		"package": "adephylo",
+		"url": "https://github.com/thibautjombart/adephylo"
+	},
+	{
+		"package": "apex",
+		"url": "https://github.com/thibautjombart/apex"
+	},
+	{
+		"package": "aphid",
+		"url": "https://github.com/shaunpwilkinson/aphid"
+	},
+	{
+		"package": "aphylo",
+		"url": "https://github.com/USCbiostats/aphylo"
 	}
 ]

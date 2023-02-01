@@ -234,5 +234,41 @@
 	{
 		"package": "aphylo",
 		"url": "https://github.com/USCbiostats/aphylo"
+	},
+	{
+		"package": "BAMMtools",
+		"url": "https://github.com/macroevolution/bammtools"
+	},
+	{
+		"package": "beastier",
+		"url": "https://github.com/ropensci/beastier"
+	},
+	{
+		"package": "beautier",
+		"url": "https://github.com/ropensci/beautier/"
+	},
+	{
+		"package": "bmrs",
+		"url": "https://github.com/paul-buerkner/brms"
+	},
+	{
+		"package": "brranching",
+		"url": "https://github.com/ropensci/brranching"
+	},
+	{
+		"package": "CALANGO",
+		"url": "https://github.com/LABpackages/CALANGO"
+	},
+	{
+		"package": "Claddis",
+		"url": "https://github.com/graemetlloyd/Claddis"
+	},
+	{
+		"package": "DAMOCLES",
+		"url": "https://github.com/rsetienne/DAMOCLES"
+	},
+	{
+		"package": "deeptime",
+		"url": "https://williamgearty.com/deeptime/"
 	}
 ]

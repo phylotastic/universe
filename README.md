@@ -25,3 +25,5 @@ The only difference in practice will be if the version on CRAN is older than the
 If you know of a package that should be added, email Brian O'Meara (bomeara@utk.edu).
 
 You might also be interested in the [CRAN Task View for Phylogenetics](https://cran.r-project.org/web/views/Phylogenetics.html)
+
+US NSF sponsored the work that led to phylotastic.

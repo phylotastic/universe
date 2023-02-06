@@ -23,10 +23,6 @@
         "package": "OUwie",
         "url": "https://github.com/thej022214/OUwie"
     },
-    {
-        "package": "sleq",
-        "url": "https://github.com/bomeara/sleq"
-    },
 	{
         "package": "datelife",
         "url": "https://github.com/phylotastic/datelife"
@@ -72,10 +68,6 @@
         "url": "https://github.com/ropensci/phylotaR"
     },
 	{
-        "package": "rnsf",
-        "url": "https://github.com/bomeara/rnsf"
-    },
-	{
         "package": "closesamples",
         "url": "https://github.com/bomeara/closesamples"
     },
@@ -86,10 +78,6 @@
 	{
         "package": "popularitree",
         "url": "https://github.com/bomeara/popularitree"
-    },
-	{
-        "package": "yearn",
-        "url": "https://github.com/bomeara/yearn"
     },
 	{
         "package": "RateViz",

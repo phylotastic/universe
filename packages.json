@@ -318,6 +318,129 @@
 	{
 		"package": "phyclust",
 		"url": "https://github.com/snoweye/phyclust"
+	},
+	{
+		"package": "phylocanvas",
+		"url": "https://github.com/zachcp/phylocanvas"
+	},
+	{
+		"package": "phyloclim",
+		"url": "https://github.com/heibl/phyloclim"
+	},
+	{
+		"package": "PHYLOGR",
+		"url": "https://github.com/rdiaz02/PHYLOGR"
+	},
+	{
+		"package": "phylogram",
+		"url": "http://github.com/ropensci/phylogram"
+	},
+	{
+		"package": "phyloregion",
+		"url": "https://github.com/darunabas/phyloregion"
+	},
+	{
+		"package": "phylosignal",
+		"url": "https://github.com/fkeck/phylosignal"
+	},
+	{
+		"package": "phylotools",
+		"url": "https://github.com/helixcn/phylotools"
+	},
+	{
+		"package": "phylotop",
+		"url": "https://github.com/MichelleKendall/phyloTop"
+	},
+	{
+		"package": "picante",
+		"url": "https://github.com/skembel/picante"
+	},
+	{
+		"package": "Quartet",
+		"url": "https://github.com/ms609/Quartet"
+	},
+	{
+		"package": "RevGadgets",
+		"url": "https://github.com/revbayes/RevGadgets"
+	},
+	{
+		"package": "Reviculate",
+		"url": "https://github.com/revbayes/Revticulate"
+	},
+	{
+		"package": "rncl",
+		"url": "https://github.com/fmichonneau"
+	},
+	{
+		"package": "RNeXML",
+		"url": "https://github.com/ropensci/RNeXML"
+	},
+	{
+		"package": "Rogue",
+		"url": "https://github.com/ms609/Rogue"
+	},
+	{
+		"package": "RPANDA",
+		"url": "https://github.com/hmorlon/PANDA"
+	},
+	{
+		"package": "RRPP",
+		"url": "https://github.com/mlcollyer/RRPP"
+	},
+	{
+		"package": "strap",
+		"url": "https://github.com/graemetlloyd/strap"
+	},
+	{
+		"package": "taxize",
+		"url": "https://github.com/ropensci/taxize"
+	},
+	{
+		"package": "TBRDist",
+		"url": "https://github.com/ms609/TBRDist"
+	},
+	{
+		"package": "tidytree",
+		"url": "https://github.com/YuLab-SMU/tidytree"
+	},	
+	{
+		"package": "tracerer",
+		"url": "https://github.com/ropensci/tracerer"
+	},
+	{
+		"package": "treebase",
+		"url": "https://github.com/ropensci/treebase"
+	},
+	{
+		"package": "treedater",
+		"url": "https://github.com/emvolz/treedater"
+	},
+	{
+		"package": "TreeDist",
+		"url": "https://github.com/ms609/TreeDist"
+	},
+	{
+		"package": "treeducken",
+		"url": "https://github.com/wadedismukes/treeducken"
+	},
+	{
+		"package": "TreeSearch",
+		"url": "https://github.com/ms609/TreeSearch"
+	},
+	{
+		"package": "treespace",
+		"url": "https://github.com/thibautjombart/treespace"
+	},
+	{
+		"package": "TreeTools",
+		"url": "https://github.com/ms609/TreeTools"
+	},
+	{
+		"package": "vegan",
+		"url": "https://github.com/vegandevs/vegan"
+	},
+	{
+		"package": "windex",
+		"url": "https://github.com/kevinarbuckle/windex/"
 	}
-	
 ]

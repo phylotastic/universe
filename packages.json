@@ -116,6 +116,10 @@
         "url": "https://github.com/fmichonneau/phylobase"
     },
 	{
+		"package": "phylocomr",
+		"url": "https://github.com/ropensci/phylocomr"
+	},
+	{
         "package": "bayou",
         "url": "https://github.com/uyedaj/bayou"
     },

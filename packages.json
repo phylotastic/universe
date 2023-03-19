@@ -262,5 +262,62 @@
 	{
 		"package": "deeptime",
 		"url": "https://williamgearty.com/deeptime/"
+	},
+	{
+		"package": "dendextend",
+		"url": "https://github.com/talgalili/dendextend"
+	},
+	{
+		"package": "entropart",
+		"url": "https://github.com/EricMarcon/entropart"
+	},
+	{
+		"package": "epm",
+		"url": "https://github.com/ptitle/epm"
+	},
+	{
+		"package": "EvoPhylo",
+		"url": "https://github.com/tiago-simoes/EvoPhylo"
+	},
+	{
+		"package": "geomorph",
+		"url": "https://github.com/geomorphR/geomorph"
+	},
+	{
+		"package": "idendr0",
+		"url": "http://github.com/tsieger/idendr0"
+	},
+	{
+		"package": "ips",
+		"url": "https://github.com/heibl/ips"
+	},
+	{
+		"package": "MCMCglmm",
+		"url": "https://github.com/jarrodhadfield/MCMCglmm"
+	},
+	{
+		"package": "mvMORPH",
+		"url": "https://github.com/JClavel/mvMORPH"
+	},
+	{
+		"package": "ouch",
+		"url": "https://github.com/kingaa/ouch"
+	},
+	{
+		"package": "paleobuddy",
+		"url": "https://github.com/brpetrucci/paleobuddy"
+	},
+	{
+		"package": "paleotree",
+		"url": "https://github.com/dwbapst/paleotree"
+	},
+	{
+		"package": "paleoTS",
+		"url": "https://github.com/cran/paleoTS"
+	},
+	{
+		"package": "phyclust",
+		"url": "https://github.com/snoweye/phyclust"
 	}
+	
 ]

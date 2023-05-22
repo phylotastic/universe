@@ -244,6 +244,10 @@
 		"url": "https://github.com/paul-buerkner/brms"
 	},
 	{
+		"package": "bppr",
+		"url": "https://github.com/dosreislab/bppr"
+	},
+	{
 		"package": "brranching",
 		"url": "https://github.com/ropensci/brranching"
 	},
@@ -290,6 +294,10 @@
 	{
 		"package": "ips",
 		"url": "https://github.com/heibl/ips"
+	},
+	{
+		"package": "mcc3r",
+		"url": "https://github.com/dosreislab/mcmc3r"
 	},
 	{
 		"package": "MCMCglmm",

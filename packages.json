@@ -48,8 +48,16 @@
         "url": "https://github.com/bomeara/selac"
     },
 	{
+        "package": "treevo",
+        "url": "https://github.com/bomeara/treevo"
+    },
+	{
         "package": "rphylotastic",
         "url": "https://github.com/phylotastic/rphylotastic"
+    },
+	{
+        "package": "phylobot",
+        "url": "https://github.com/phylotastic/phylobot"
     },
 	{
         "package": "flipped",
@@ -58,6 +66,14 @@
 	{
         "package": "phylotaR",
         "url": "https://github.com/ropensci/phylotaR"
+    },
+	{
+        "package": "closesamples",
+        "url": "https://github.com/bomeara/closesamples"
+    },
+	{
+        "package": "BMhyb",
+        "url": "https://github.com/bomeara/BMhyb"
     },
 	{
         "package": "popularitree",
@@ -74,6 +90,10 @@
 	{
         "package": "phybase",
         "url": "https://github.com/cran/phybase"
+    },
+	{
+        "package": "P2C2M",
+        "url": "https://github.com/cran/P2C2M"
     },
 	{
         "package": "rotl",
@@ -112,6 +132,10 @@
 		"url": "https://github.com/fossilsim/fossilsim"
 	},
 	{
+		"package": "RRphylo",
+		"url": "https://github.com/pasraia/RRphylo"
+	},
+	{
 		"package": "Rphylopars",
 		"url": "https://github.com/ericgoolsby/Rphylopars"
 	},
@@ -132,8 +156,20 @@
 		"url": "https://github.com/coleoguy/evobir"
 	},
 	{
+		"package": "hillR",
+		"url": "https://github.com/daijiang/hillR"
+	},
+	{
+		"package": "hilldiv",
+		"url": "https://github.com/anttonalberdi/hilldiv"
+	},
+	{
 		"package": "nichevol",
 		"url": "https://github.com/marlonecobos/nichevol"
+	},
+	{
+		"package": "nodeSub",
+		"url": "https://github.com/thijsjanzen/nodeSub"
 	},
 	{
 		"package": "pmc",
@@ -184,8 +220,16 @@
 		"url": "https://github.com/thibautjombart/apex"
 	},
 	{
+		"package": "aphid",
+		"url": "https://github.com/shaunpwilkinson/aphid"
+	},
+	{
+		"package": "aphylo",
+		"url": "https://github.com/USCbiostats/aphylo"
+	},
+	{
 		"package": "BAMMtools",
-		"url": "https://github.com/macroevolution/bammtools"
+		"url": "https://github.com/macroevolution/bammtools/tree/master/BAMMtools"
 	},
 	{
 		"package": "beastier",
@@ -196,7 +240,7 @@
 		"url": "https://github.com/ropensci/beautier/"
 	},
 	{
-		"package": "bmrs",
+		"package": "brms",
 		"url": "https://github.com/paul-buerkner/brms"
 	},
 	{
@@ -228,6 +272,10 @@
 		"url": "https://github.com/talgalili/dendextend"
 	},
 	{
+		"package": "entropart",
+		"url": "https://github.com/EricMarcon/entropart"
+	},
+	{
 		"package": "epm",
 		"url": "https://github.com/ptitle/epm"
 	},
@@ -240,11 +288,15 @@
 		"url": "https://github.com/geomorphR/geomorph"
 	},
 	{
+		"package": "idendr0",
+		"url": "http://github.com/tsieger/idendr0"
+	},
+	{
 		"package": "ips",
 		"url": "https://github.com/heibl/ips"
 	},
 	{
-		"package": "mcc3r",
+		"package": "mcmc3r",
 		"url": "https://github.com/dosreislab/mcmc3r"
 	},
 	{
@@ -276,6 +328,10 @@
 		"url": "https://github.com/snoweye/phyclust"
 	},
 	{
+		"package": "phylocanvas",
+		"url": "https://github.com/zachcp/phylocanvas"
+	},
+	{
 		"package": "phyloclim",
 		"url": "https://github.com/heibl/phyloclim"
 	},
@@ -300,7 +356,7 @@
 		"url": "https://github.com/helixcn/phylotools"
 	},
 	{
-		"package": "phylotop",
+		"package": "phyloTop",
 		"url": "https://github.com/MichelleKendall/phyloTop"
 	},
 	{
@@ -316,7 +372,7 @@
 		"url": "https://github.com/revbayes/RevGadgets"
 	},
 	{
-		"package": "Reviculate",
+		"package": "Revticulate",
 		"url": "https://github.com/revbayes/Revticulate"
 	},
 	{
@@ -390,5 +446,9 @@
 	{
 		"package": "vegan",
 		"url": "https://github.com/vegandevs/vegan"
+	},
+	{
+		"package": "windex",
+		"url": "https://github.com/kevinarbuckle/windex/"
 	}
 ]

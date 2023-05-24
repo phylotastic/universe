@@ -48,16 +48,12 @@
         "url": "https://github.com/bomeara/selac"
     },
 	{
-        "package": "treevo",
+        "package": "TreEvo",
         "url": "https://github.com/bomeara/treevo"
     },
 	{
         "package": "rphylotastic",
         "url": "https://github.com/phylotastic/rphylotastic"
-    },
-	{
-        "package": "phylobot",
-        "url": "https://github.com/phylotastic/phylobot"
     },
 	{
         "package": "flipped",

@@ -225,7 +225,8 @@
 	},
 	{
 		"package": "BAMMtools",
-		"url": "https://github.com/macroevolution/bammtools/tree/master/BAMMtools"
+		"url": "https://github.com/macroevolution/bammtools",
+		"subdir": "BAMMtools"
 	},
 	{
 		"package": "beastier",
@@ -261,7 +262,7 @@
 	},
 	{
 		"package": "deeptime",
-		"url": "https://williamgearty.com/deeptime/"
+		"url": "https://github.com/willgearty/deeptime"
 	},
 	{
 		"package": "dendextend",
@@ -373,7 +374,7 @@
 	},
 	{
 		"package": "rncl",
-		"url": "https://github.com/fmichonneau"
+		"url": "https://github.com/fmichonneau/rncl"
 	},
 	{
 		"package": "RNeXML",
